@@ -34,7 +34,7 @@ function App() {
         <Navigation currentLang={lang} />
       </header>
       <Routes>
-        <Route path="/" element={<Main textForH2={textForH2[lang]} textForP={textForP[lang]} styleForMain='mainCont' />} />
+        <Route path="/forfun777" element={<Main textForH2={textForH2[lang]} textForP={textForP[lang]} styleForMain='mainCont' />} />
         <Route path="/html" element={<PageFirst lang={lang} />} />
         <Route path="/css" element={<PageSecond lang={lang} />} />
         <Route path="/javascript" element={<PageThird lang={lang} />} />
