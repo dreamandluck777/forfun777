@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/forfun777/static/css/main.4665c45c.css",
+    "main.js": "/forfun777/static/js/main.7a138a6f.js",
+    "static/js/453.64512fd7.chunk.js": "/forfun777/static/js/453.64512fd7.chunk.js",
+    "static/media/desktop_background.png": "/forfun777/static/media/desktop_background.7d3564724810939fb8f3.png",
+    "static/media/tablet_background.png": "/forfun777/static/media/tablet_background.918e96bfed656fba46e3.png",
+    "static/media/mobile_background_noborders.png": "/forfun777/static/media/mobile_background_noborders.b8d7e9494d180133d9fa.png",
+    "static/media/react-brands.svg": "/forfun777/static/media/react-brands.e5af4718ac40d4ea165c.svg",
+    "static/media/css-brands.svg": "/forfun777/static/media/css-brands.4dcbaafd3b3dac89a04d.svg",
+    "static/media/js-brands.svg": "/forfun777/static/media/js-brands.e4f8ed3f5ab67521fef7.svg",
+    "static/media/house-solid.svg": "/forfun777/static/media/house-solid.388cf359777b512d6659.svg",
+    "index.html": "/forfun777/index.html",
+    "static/media/icons8-typescript.svg": "/forfun777/static/media/icons8-typescript.f20748caf2dac55710dd.svg",
+    "static/media/html5-brands.svg": "/forfun777/static/media/html5-brands.ff5f9a64dc1432d829cb.svg",
+    "main.4665c45c.css.map": "/forfun777/static/css/main.4665c45c.css.map",
+    "main.7a138a6f.js.map": "/forfun777/static/js/main.7a138a6f.js.map",
+    "453.64512fd7.chunk.js.map": "/forfun777/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4665c45c.css",
+    "static/js/main.7a138a6f.js"
+  ]
+}
